@@ -38,7 +38,7 @@ def run_game(file_name):
     """
     words = read_file(file_name)
     word = select_random_word(words)
-    answer = get_user_input()
+    get_user_input()
     print('The word was: '+word)
 
 
