@@ -1,4 +1,4 @@
-# Heading 1 Mastermind 3
+#   Mastermind 3
 
 The task of this project was to remove global variables and use retunr values as
 well as implement unit testing. 

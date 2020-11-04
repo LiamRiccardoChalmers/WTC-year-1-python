@@ -1,4 +1,4 @@
-# Heading 1 Data Structures
+#   Data Structures
 
 Project that focused on the different data structures in python and how to 
 create and manipulate them.

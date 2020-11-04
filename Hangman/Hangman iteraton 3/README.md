@@ -1,4 +1,4 @@
-# Heading 1 Hangman 3
+#   Hangman 3
 The scope expaned to hiding all but 1 letter of a word and allowing the user 
 multiple guess while printing out the different states of the hanged man.
 

@@ -1,4 +1,4 @@
-# Heading 1 Mastermind 1
+#   Mastermind 1
 The scope was to build a basic version of the mastermind game the gode generated
 code not have duplicate numbers nor the numbers 0 or 9 in it. Aside from that it
 ran like a normal mastermind game.

@@ -1,4 +1,4 @@
-#  Hangman 1
+#   Hangman 1
 This projects goal where to access a text file of words and choose a random one 
 from it then replace a random letter in the word with an _ and let the user 
 guess the letter. The user only got one chance to guess.

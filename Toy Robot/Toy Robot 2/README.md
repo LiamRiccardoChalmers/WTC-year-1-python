@@ -1,4 +1,4 @@
-# Heading 1 Toy robot 2
+#   Toy robot 2
 This project was similar to the toy robot interview question but with several 
 key differences. 1 the robot will alwasys start at (0,0). 2 the co-ordinates
 can be negative. 3 the robots 'table' is a graph from (-100, -200) to (100,200).
